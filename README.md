@@ -3,4 +3,3 @@ Este material foi desenvolvido para a Semana Tecnológica da Universidade Paulis
 
 ## TODO's Extras:
 - No repositório do [Projeto que utiliza de Machine Learning para prever a potabilidade da água](https://github.com/APS-s/Water-Potability-in-real-time) adicionar um README.md simples para explicar como usar
-- No repositório do [Projeto que utiliza IA para reconhecer rostos](https://github.com/APS-s/Analise-Facial-para-Protecao-Ambiental) adicionar um README.md simples para explicar como usar
