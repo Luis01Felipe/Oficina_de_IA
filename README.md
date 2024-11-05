@@ -1,5 +1,10 @@
 # Oficina_de_IA
-Este material foi desenvolvido para a Semana Tecnológica da Universidade Paulista (UNIP), com o objetivo de ensinar conceitos de Inteligência Artificial aos alunos dos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas, na unidade Paraíso.
+Este material foi desenvolvido para a Semana Tecnológica da Universidade Paulista (UNIP) com o propósito de ensinar conceitos de Inteligência Artificial aos alunos dos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas da unidade Paraíso.
 
-## TODO's Extras:
-- No repositório do [Projeto que utiliza de Machine Learning para prever a potabilidade da água](https://github.com/APS-s/Water-Potability-in-real-time) adicionar um README.md simples para explicar como usar
+Professores e alunos estão livres para utilizá-lo à vontade, desde que a gratuidade do material seja preservada.
+
+# Utilize o QR Code abaixo para acessar este material através de seu telefone
+<img src="https://github.com/Luis01Felipe/Oficina_de_IA/blob/main/QR_Code.png" alt="QR Code" width="200" height="200">
+
+# Ou Acesse através do Link:
+https://github.com/Luis01Felipe/Oficina_de_IA
