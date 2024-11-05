@@ -11,7 +11,7 @@ Professores e alunos estão livres para utilizá-lo à vontade, desde que a grat
 5. No colab, Faça Login ou crie um cadastro
 6. em seguida, clique em 'Arquivo'
 7. em seguida, clique em 'Fazer upload de notebook'
-8. por fim, clique em 'Procurar' e selecione o material desejado, caso seja um aluno, escolha 'Oficina_de_IA_Alunos.ipynb', caso seja um professor ou queira o material completo, escolha Oficina_de_IA.ipynb
+8. por fim, clique em 'Procurar' e selecione o material desejado, caso seja um aluno, escolha 'Oficina_de_IA_Alunos.ipynb', caso seja um professor ou queira o material completo, escolha Oficina_de_IA_Professor.ipynb, ambos estão no seguinte caminho: "\Material de Aula\Notebooks" ou acesse através do link: https://github.com/Luis01Felipe/Oficina_de_IA/tree/main/Material%20de%20Aula/Notebooks
 
 # Utilize o QR Code abaixo para acessar este material através de seu telefone
 <img src="https://github.com/Luis01Felipe/Oficina_de_IA/blob/main/QR_Code.png" alt="QR Code" width="200" height="200">
