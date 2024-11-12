@@ -1,8 +1,6 @@
 # Oficina_de_IA
 Este material foi desenvolvido para a Semana Tecnológica da Universidade Paulista (UNIP) com o propósito de ensinar conceitos de Inteligência Artificial aos alunos dos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas da unidade Paraíso.
 
-Professores e alunos estão livres para utilizá-lo à vontade, desde que a gratuidade do material seja preservada.
-
 # Início
 1. No Github, clique em '<>Code'
 2. Em seguida, clique em 'download ZIP'
@@ -23,3 +21,6 @@ https://github.com/Luis01Felipe/Oficina_de_IA
 # Veja as publicações oficiais sobre o evento
 - [Linkedin](https://www.linkedin.com/posts/luis-felipe-moraes-gomes-couto-b10781201_tecnologia-python-ia-activity-7260716728005890050-AmHC?utm_source=share&utm_medium=member_desktop)
 - [Instagram](https://www.instagram.com/p/DCIMj3JyNYTgPS71s9nE7Q7o6qI-dBYzJV_mn40/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+# Resumo da licença 
+De forma simples, a licença Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) **permite que você copie, compartilhe e adapte o material, mas você deve atribui-lo a seu autor e não utiliza-lo comercialmente.** Para mais informações, leia o arquivo [LICENSE.md](https://github.com/Luis01Felipe/Oficina_de_IA/blob/main/LICENSE.md) ou [acesse a documentação oficial da licença](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
